@@ -1,0 +1,23 @@
+{
+  "greeting": "Halo",
+  "name": "Phương Linh",
+  "greetingText": "Anh rất là yêu em :D",
+  "wishText": "Wish you all the best :D",
+  "imagePath": "img/embexinh.png",
+  "text1": "Nay là sinh nhật của em :D",
+  "textInChatBox": "Chúc em sinh nhật vui vẻ!! Blah! hạnh phúc blah blah...",
+  "sendButtonLabel": "Gửi",
+  "text2": "Đó là nhưng gì anh tính làm",
+  "text3": "Nhưng không",
+  "text4": "Anh nhận ra anh phải làm một điều gì đó",
+  "text4Adjective": "Đặc Biệt",
+  "text5Entry": "Vì,",
+  "text5Content": "Em là người đặc biệt",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday",
+  "outroText": "Iu em, chúc em sinh nhật vui vẻ :D nào vô đây anh mua quà cho",
+  "replayText": "hoặc nhấn vào, nếu em muốn xem nó một lần nữa :D.",
+  "outroSmiley": ":)"
+}
